@@ -35,5 +35,6 @@ export default {
       return id === siteNr ? true : false;
     }
   }
-};
+}
+
 </script>
